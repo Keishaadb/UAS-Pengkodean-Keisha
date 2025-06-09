@@ -1,0 +1,6 @@
+penjualan_id,persediaan_id,produk_nama,tanggal_penjualan,jumlah_penjualan,harga_satuan,pendapatan
+J001,S001,Meja Kayu,2025-02,100,600,60000
+J002,S002,Kursi Kayu,2025-03,200,400,80000
+J003,S003,Lemari Kayu,2025-04,50,800,40000
+J004,S004,Meja Kayu,2025-05,300,620,186000
+J005,S005,Kursi Kayu,2025-06,250,420,105000

@@ -1,0 +1,6 @@
+persediaan_id,produksi_id,produk_nama,tanggal_persediaan,stok_awal,stok_masuk,stok_keluar,stok_akhir
+S001,P001,Meja Kayu,2025-01,0,500,100,400
+S002,P002,Kursi Kayu,2025-02,0,800,200,600
+S003,P003,Lemari Kayu,2025-03,0,300,50,250
+S004,P004,Meja Kayu,2025-04,400,600,300,700
+S005,P005,Kursi Kayu,2025-05,600,700,250,1050
