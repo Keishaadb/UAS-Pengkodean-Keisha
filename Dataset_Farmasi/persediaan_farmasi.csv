@@ -1,0 +1,11 @@
+obat_id,nama_obat,tanggal_masuk,jumlah_unit,harga_pokok_pembelian,total_harga_pokok
+OBT001,Paracetamol,2023-04-13,835,15.46,12907.31
+OBT001,Paracetamol,2023-04-17,471,11.59,5456.65
+OBT002,Amoxicillin,2023-04-13,521,6.72,3499.0
+OBT002,Amoxicillin,2023-11-27,858,14.53,12464.97
+OBT003,Omeprazole,2023-04-10,1063,12.16,12925.84
+OBT003,Omeprazole,2023-11-05,1169,12.94,15129.18
+OBT004,Ibuprofen,2023-10-04,560,8.35,4674.13
+OBT004,Ibuprofen,2023-10-21,785,7.0,5495.06
+OBT005,Metformin,2023-01-22,652,9.75,6357.91
+OBT005,Metformin,2023-02-18,874,11.73,10252.35
