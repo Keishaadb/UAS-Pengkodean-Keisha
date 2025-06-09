@@ -1,0 +1,11 @@
+aset_id,kategori,nilai_perolehan,umur_ekonomis,metode
+A001,Mesin,500000000,5,garis_lurus
+A002,Kendaraan,300000000,4,saldo_menurun
+A003,Bangunan,1000000000,20,garis_lurus
+A004,Peralatan,200000000,6,saldo_menurun
+A005,Mesin,750000000,8,garis_lurus
+A006,Kendaraan,250000000,5,saldo_menurun
+A007,Bangunan,1200000000,25,garis_lurus
+A008,Peralatan,150000000,7,saldo_menurun
+A009,Mesin,600000000,6,garis_lurus
+A010,Furniture,100000000,10,garis_lurus
